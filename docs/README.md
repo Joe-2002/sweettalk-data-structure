@@ -7,6 +7,9 @@
 &emsp;&emsp;结合《大话数据结构》这本书，总结了...  
 &emsp;&emsp;如果觉得本项目中有错误，可以[点击这里](https://github.com/datawhalechina/sweetalk-design-pattern/issues)提交你希望补充的内容，我们看到后会尽快进行补充。  
 
+### 在线阅读地址
+https://joker-lkc.github.io/Data-Structure/
+
 ## 项目目录
 
 <pre>
