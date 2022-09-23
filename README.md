@@ -4,7 +4,7 @@
 
 ## 使用说明
 
-&emsp;&emsp;结合《大话数据结构》这本书，总结了...  
+&emsp;&emsp;结合《大话数据结构》这本书，总结了数据结构和算法的知识并配套了相关习题和解答，对书中C90的代码，配套C++11和Python3的代码。
 &emsp;&emsp;如果觉得本项目中有错误，可以[点击这里](https://github.com/datawhalechina/sweetalk-design-pattern/issues)提交你希望补充的内容，我们看到后会尽快进行补充。  
 
 ### 在线阅读地址
