@@ -856,7 +856,7 @@ print(QuickSort(array_test,0,len(array_test)-1))
 
 9.9.2  快速排序复杂度分析
 
-![image-20220921204035900](C:\Users\33879\AppData\Roaming\Typora\typora-user-images\image-20220921204035900.png)
+![image-20220921204035900](Cscr\image-20220921204035900.png)
 
 #### 9.9.3快速排序优化方法
 
@@ -915,7 +915,7 @@ print(QuickSort(array_test,0,len(array_test)-1))
 
 
 
-![image-20220921204255334](C:\Users\33879\AppData\Roaming\Typora\typora-user-images\image-20220921204255334.png)
+![image-20220921204255334](scr\image-20220921204255334.png)
 
 | 排序方法 | 平均情况         | 最好情况  | 最坏情况 | 辅助空间      | 稳定性 |
 | :------- | ---------------- | --------- | -------- | ------------- | ------ |
