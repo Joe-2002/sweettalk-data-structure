@@ -856,7 +856,7 @@ print(QuickSort(array_test,0,len(array_test)-1))
 
 9.9.2  快速排序复杂度分析
 
-![image-20220921204035900](Cscr/image-20220921204035900.png)
+![image-20220921204035900](scr/image-20220921204035900.png)
 
 #### 9.9.3快速排序优化方法
 
