@@ -1,4 +1,4 @@
-# 《大话数据结构》开源项目 - [在线阅读](https://joker-lkc.github.io/sweetalk-data-structure/#/)
+# sweetalk-data-structure - [在线阅读](https://joker-lkc.github.io/sweetalk-data-structure/#/)
 
 &emsp;&emsp;本项目主要基于《大话数据结构》这本书，对该书涉及的线性表、栈与队列、串、树、图、查找与排序进行解读，原书采用是C90语言编写，本项目使用C++11、Python3和Java进行代码重写，供大家参考不同语言对数据结构的编写。
 
