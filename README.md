@@ -1,4 +1,4 @@
-# 《大话数据结构》开源项目
+# 《大话数据结构》开源项目 - [在线阅读](https://joker-lkc.github.io/sweetalk-data-structure/#/)
 
 &emsp;&emsp;本项目主要基于《大话数据结构》这本书，对该书涉及的线性表、栈与队列、串、树、图、查找与排序进行解读，原书采用是C90语言编写，本项目使用C++11、Python3和Java进行代码重写，供大家参考不同语言对数据结构的编写。
 
@@ -45,6 +45,26 @@ https://joker-lkc.github.io/sweetalk-data-structure
 |   7   |      图      | 已完成 | 李柯辰 |   李柯辰   |
 |   8   |     查找     | 已完成 | 马燕鹏 |   李柯辰   |
 |   9   |     排序     | 已完成 |  王鑫  |   胡锐锋   |
+
+## 致谢
+
+**核心贡献者**
+
+* 李柯辰
+* 崔腾松
+* 王鑫
+* 马燕鹏
+* 葛云峰
+* 安欣锐
+
+**重要贡献者（根据内容+社区贡献程度筛选）**
+
+* 
+
+**其他**
+
+感谢胡锐锋等在最早期的时候对[sweetalk-data-structure](https://github.com/Joker-lkc/sweetalk-data-structure)所做的贡献!
+
 
 ### 关注我们
 
