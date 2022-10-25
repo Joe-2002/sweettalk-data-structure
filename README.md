@@ -19,7 +19,7 @@ https://joker-lkc.github.io/sweetalk-data-structure
 | :----- | :------------ |
 | [第一章 数据结构概论](https://joker-lkc.github.io/sweetalk-data-structure/#/ch01/ch01)     | 第一章 习题 |
 | [第二章 算法](https://joker-lkc.github.io/sweetalk-data-structure/#/ch02/ch02)     | 第二章 习题 |
-| [第三章 线性表](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03)     | 第三章 习题 |
+| [第三章 线性表](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03)     | [第三章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_35-%e4%b9%a0%e9%a2%98) |
 | [第四章 栈与队列](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04)     | [第四章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=_46-%e4%b9%a0%e9%a2%98)            |
 | [第五章 串](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05)     | [第五章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=_56-%e4%b9%a0%e9%a2%98)            |
 | [第六章 树](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06)     | [第六章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06?id=_69-%e4%b9%a0%e9%a2%98)            |
