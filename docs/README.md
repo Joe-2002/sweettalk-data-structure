@@ -25,7 +25,7 @@ https://joker-lkc.github.io/sweetalk-data-structure
 | [第六章 树](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06)     | [第六章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06?id=_69-%e4%b9%a0%e9%a2%98)            |
 | [第七章 图](https://joker-lkc.github.io/sweetalk-data-structure/#/ch07/ch07)     | 第七章 习题 |
 | [第八章 查找](https://joker-lkc.github.io/sweetalk-data-structure/#/ch08/ch08)     | 第八章 习题 |
-| [第九章 排序](https://joker-lkc.github.io/sweetalk-data-structure/#/ch09/ch09)     | 第九章 习题 |
+| [第九章 排序](https://joker-lkc.github.io/sweetalk-data-structure/#/ch09/ch09)     | [第九章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch09/ch09?id=_910-%e4%b9%a0%e9%a2%98) |
 
 
 ## 致谢
