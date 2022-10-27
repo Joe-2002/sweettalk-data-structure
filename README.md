@@ -13,6 +13,39 @@
 ### 在线阅读地址
 https://joker-lkc.github.io/sweetalk-data-structure
 
+## 基本信息
+
+* 学习周期：9天，每天平均花费时间1小时-3小时不等，根据个人学习接受能力强弱有所浮动。
+* 学习形式：理论学习 + 练习
+* 人群定位：有一定编程基础，对学习数据结构和算法有需求的学员。
+* 先修内容：Python、C、Java等编程语言
+* 难度系数：中
+
+## 学习目标
+
+通过学习9天的打卡学习，掌握线性表、栈与队列、串等知识点，能够独立实现数据结构，并完成相关习题。
+
+
+## 任务安排
+
+### Task01：学习线性表完成以下三个题目并打卡（3天）
+
+* [询问学号-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_351-p3156-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b1%e3%80%91%e8%af%a2%e9%97%ae%e5%ad%a6%e5%8f%b7-%e7%ae%80%e5%8d%95)
+* [寄包柜-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_352-p3613-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b2%e3%80%91%e5%af%84%e5%8c%85%e6%9f%9c-%e7%ae%80%e5%8d%95)
+* [校门外的树-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_353-p1047-noip2005-%e6%99%ae%e5%8f%8a%e7%bb%84-%e6%a0%a1%e9%97%a8%e5%a4%96%e7%9a%84%e6%a0%91-%e7%ae%80%e5%8d%95)
+
+### Task02:学习栈与队列完成以下三个题目并打卡（3天）
+
+* [栈-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%981-%e6%a0%88%ef%bc%88%e6%b4%9b%e8%b0%b7noip2003%e6%99%ae%e5%8f%8a%e7%bb%84-%e7%ae%80%e5%8d%95%ef%bc%89)
+* [后缀表达式-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%982-%e5%90%8e%e7%bc%80%e8%a1%a8%e8%be%be%e5%bc%8f%ef%bc%88%e6%b4%9b%e8%b0%b7p149-%e7%ae%80%e5%8d%95%ef%bc%89)
+* [滑动窗口的最大值-中等](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%983-%e6%bb%91%e5%8a%a8%e7%aa%97%e5%8f%a3%e7%9a%84%e6%9c%80%e5%a4%a7%e5%80%bc%ef%bc%88%e7%89%9b%e5%ae%a2-%e4%b8%ad%e7%ad%89%ef%bc%89)
+
+### Task03: 学习串完成以下三个题目并打卡（3天）
+
+* [字符串语句逆序-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%981-%e5%ad%97%e7%ac%a6%e4%b8%b2%e8%af%ad%e5%8f%a5%e9%80%86%e5%ba%8f%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+* [字符出现情况-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%982-%e5%ad%97%e7%ac%a6%e5%87%ba%e7%8e%b0%e6%83%85%e5%86%b5%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+* [第一个出现两次的字符-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%983-%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%87%ba%e7%8e%b0%e4%b8%a4%e6%ac%a1%e7%9a%84%e5%ad%97%e7%ac%a6%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+
 ### 内容导航
 
 | 章节 | 习题        |
@@ -45,6 +78,7 @@ https://joker-lkc.github.io/sweetalk-data-structure
 |   7   |      图      | 已完成 | 李柯辰 |   李柯辰、胡锐锋   |
 |   8   |     查找     | 已完成 | 马燕鹏 |   李柯辰、胡锐锋   |
 |   9   |     排序     | 已完成 |  王鑫  |   胡锐锋   |
+
 
 ## 致谢
 
