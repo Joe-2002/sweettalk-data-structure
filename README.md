@@ -91,15 +91,17 @@ https://joker-lkc.github.io/sweetalk-data-structure
 * 葛云峰
 * 安欣锐
 
-**重要贡献者（根据内容+社区贡献程度筛选）**
+**特别感谢以下为教程做出贡献的同学！**
 
-* 
+<a href="https://github.com/Joe-2002/sweetalk-data-structure/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Joe-2002/sweetalk-data-structure" />
+</a>
 
 **其他**
 
 感谢[胡锐锋](https://github.com/Relph1119)等在最早期的时候对[sweetalk-data-structure](https://github.com/Joker-lkc/sweetalk-data-structure)所做的贡献!
 
-
+---
 ### 关注我们
 
 <div align=center>
