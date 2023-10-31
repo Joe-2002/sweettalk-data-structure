@@ -97,6 +97,12 @@ https://joker-lkc.github.io/sweetalk-data-structure
   <img src="https://contrib.rocks/image?repo=Joe-2002/sweetalk-data-structure" />
 </a>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Joe-2002/sweetalk-data-structure&type=Date)](https://star-history.com/#Joe-2002/sweetalk-data-structure&Date)
+
+
+
 **其他**
 
 感谢[胡锐锋](https://github.com/Relph1119)等在最早期的时候对[sweetalk-data-structure](https://github.com/Joker-lkc/sweetalk-data-structure)所做的贡献!
