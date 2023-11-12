@@ -1,4 +1,4 @@
-# sweetalk-data-structure
+# sweettalk-data-structure
 
 &emsp;&emsp;本项目主要基于《大话数据结构》这本书，对该书涉及的线性表、栈与队列、串、树、图、查找与排序进行解读，原书采用C90语言编写，本项目使用C++11、Python3和Java进行代码重写，供大家参考不同语言对数据结构的编写。
 
@@ -8,7 +8,7 @@
 
 &emsp;&emsp;结合《大话数据结构》这本书，总结了数据结构和算法的知识并配套了相关习题和解答，习题采用C++11、Python3和Java的代码。
 
-&emsp;&emsp;如果觉得本项目中有错误，可以[点击这里](https://github.com/Joker-lkc/sweetalk-data-structure/issues)提交你希望补充的内容，我们看到后会尽快进行补充。  
+&emsp;&emsp;如果觉得本项目中有错误，可以[点击这里](https://github.com/Joker-lkc/sweettalk-data-structure/issues)提交你希望补充的内容，我们看到后会尽快进行补充。  
 
 ### 在线阅读地址
 https://joker-lkc.github.io/sweetalk-data-structure
@@ -30,35 +30,35 @@ https://joker-lkc.github.io/sweetalk-data-structure
 
 ### Task01：学习线性表完成以下三个题目并打卡（3 天）
 
-* [询问学号-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_351-p3156-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b1%e3%80%91%e8%af%a2%e9%97%ae%e5%ad%a6%e5%8f%b7-%e7%ae%80%e5%8d%95)
-* [寄包柜-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_352-p3613-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b2%e3%80%91%e5%af%84%e5%8c%85%e6%9f%9c-%e7%ae%80%e5%8d%95)
-* [校门外的树-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_353-p1047-noip2005-%e6%99%ae%e5%8f%8a%e7%bb%84-%e6%a0%a1%e9%97%a8%e5%a4%96%e7%9a%84%e6%a0%91-%e7%ae%80%e5%8d%95)
+* [询问学号-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch03/ch03?id=_351-p3156-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b1%e3%80%91%e8%af%a2%e9%97%ae%e5%ad%a6%e5%8f%b7-%e7%ae%80%e5%8d%95)
+* [寄包柜-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch03/ch03?id=_352-p3613-%e3%80%90%e6%b7%b1%e5%9f%ba15%e4%be%8b2%e3%80%91%e5%af%84%e5%8c%85%e6%9f%9c-%e7%ae%80%e5%8d%95)
+* [校门外的树-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch03/ch03?id=_353-p1047-noip2005-%e6%99%ae%e5%8f%8a%e7%bb%84-%e6%a0%a1%e9%97%a8%e5%a4%96%e7%9a%84%e6%a0%91-%e7%ae%80%e5%8d%95)
 
 ### Task02：学习栈与队列完成以下三个题目并打卡（3 天）
 
-* [栈-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%981-%e6%a0%88%ef%bc%88%e6%b4%9b%e8%b0%b7noip2003%e6%99%ae%e5%8f%8a%e7%bb%84-%e7%ae%80%e5%8d%95%ef%bc%89)
-* [后缀表达式-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%982-%e5%90%8e%e7%bc%80%e8%a1%a8%e8%be%be%e5%bc%8f%ef%bc%88%e6%b4%9b%e8%b0%b7p149-%e7%ae%80%e5%8d%95%ef%bc%89)
-* [滑动窗口的最大值-中等](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%983-%e6%bb%91%e5%8a%a8%e7%aa%97%e5%8f%a3%e7%9a%84%e6%9c%80%e5%a4%a7%e5%80%bc%ef%bc%88%e7%89%9b%e5%ae%a2-%e4%b8%ad%e7%ad%89%ef%bc%89)
+* [栈-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%981-%e6%a0%88%ef%bc%88%e6%b4%9b%e8%b0%b7noip2003%e6%99%ae%e5%8f%8a%e7%bb%84-%e7%ae%80%e5%8d%95%ef%bc%89)
+* [后缀表达式-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%982-%e5%90%8e%e7%bc%80%e8%a1%a8%e8%be%be%e5%bc%8f%ef%bc%88%e6%b4%9b%e8%b0%b7p149-%e7%ae%80%e5%8d%95%ef%bc%89)
+* [滑动窗口的最大值-中等](https://joker-lkc.github.io/sweettalk-data-structure/#/ch04/ch04?id=%e4%b9%a0%e9%a2%983-%e6%bb%91%e5%8a%a8%e7%aa%97%e5%8f%a3%e7%9a%84%e6%9c%80%e5%a4%a7%e5%80%bc%ef%bc%88%e7%89%9b%e5%ae%a2-%e4%b8%ad%e7%ad%89%ef%bc%89)
 
 ### Task03：学习串完成以下三个题目并打卡（3 天）
 
-* [字符串语句逆序-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%981-%e5%ad%97%e7%ac%a6%e4%b8%b2%e8%af%ad%e5%8f%a5%e9%80%86%e5%ba%8f%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
-* [字符出现情况-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%982-%e5%ad%97%e7%ac%a6%e5%87%ba%e7%8e%b0%e6%83%85%e5%86%b5%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
-* [第一个出现两次的字符-简单](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%983-%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%87%ba%e7%8e%b0%e4%b8%a4%e6%ac%a1%e7%9a%84%e5%ad%97%e7%ac%a6%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+* [字符串语句逆序-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%981-%e5%ad%97%e7%ac%a6%e4%b8%b2%e8%af%ad%e5%8f%a5%e9%80%86%e5%ba%8f%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+* [字符出现情况-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%982-%e5%ad%97%e7%ac%a6%e5%87%ba%e7%8e%b0%e6%83%85%e5%86%b5%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
+* [第一个出现两次的字符-简单](https://joker-lkc.github.io/sweettalk-data-structure/#/ch05/ch05?id=%e4%b9%a0%e9%a2%983-%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%87%ba%e7%8e%b0%e4%b8%a4%e6%ac%a1%e7%9a%84%e5%ad%97%e7%ac%a6%ef%bc%88%e7%ae%80%e5%8d%95%ef%bc%89)
 
 ### 内容导航
 
 | 章节 | 习题        |
 | :----- | :------------ |
-| [第一章 数据结构概论](https://joker-lkc.github.io/sweetalk-data-structure/#/ch01/ch01)     | 第一章 习题 |
-| [第二章 算法](https://joker-lkc.github.io/sweetalk-data-structure/#/ch02/ch02)     | 第二章 习题 |
-| [第三章 线性表](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03)     | [第三章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch03/ch03?id=_35-%e4%b9%a0%e9%a2%98) |
-| [第四章 栈与队列](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04)     | [第四章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch04/ch04?id=_46-%e4%b9%a0%e9%a2%98)            |
-| [第五章 串](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05)     | [第五章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch05/ch05?id=_56-%e4%b9%a0%e9%a2%98)            |
-| [第六章 树](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06)     | [第六章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch06/ch06?id=_69-%e4%b9%a0%e9%a2%98)            |
-| [第七章 图](https://joker-lkc.github.io/sweetalk-data-structure/#/ch07/ch07)     | 第七章 习题 |
-| [第八章 查找](https://joker-lkc.github.io/sweetalk-data-structure/#/ch08/ch08)     | 第八章 习题 |
-| [第九章 排序](https://joker-lkc.github.io/sweetalk-data-structure/#/ch09/ch09)     | [第九章 习题](https://joker-lkc.github.io/sweetalk-data-structure/#/ch09/ch09?id=_910-%e4%b9%a0%e9%a2%98) |
+| [第一章 数据结构概论](https://joker-lkc.github.io/sweettalk-data-structure/#/ch01/ch01)     | 第一章 习题 |
+| [第二章 算法](https://joker-lkc.github.io/sweettalk-data-structure/#/ch02/ch02)     | 第二章 习题 |
+| [第三章 线性表](https://joker-lkc.github.io/sweettalk-data-structure/#/ch03/ch03)     | [第三章 习题](https://joker-lkc.github.io/sweettalk-data-structure/#/ch03/ch03?id=_35-%e4%b9%a0%e9%a2%98) |
+| [第四章 栈与队列](https://joker-lkc.github.io/sweettalk-data-structure/#/ch04/ch04)     | [第四章 习题](https://joker-lkc.github.io/sweettalk-data-structure/#/ch04/ch04?id=_46-%e4%b9%a0%e9%a2%98)            |
+| [第五章 串](https://joker-lkc.github.io/sweettalk-data-structure/#/ch05/ch05)     | [第五章 习题](https://joker-lkc.github.io/sweettalk-data-structure/#/ch05/ch05?id=_56-%e4%b9%a0%e9%a2%98)            |
+| [第六章 树](https://joker-lkc.github.io/sweettalk-data-structure/#/ch06/ch06)     | [第六章 习题](https://joker-lkc.github.io/sweettalk-data-structure/#/ch06/ch06?id=_69-%e4%b9%a0%e9%a2%98)            |
+| [第七章 图](https://joker-lkc.github.io/sweettalk-data-structure/#/ch07/ch07)     | 第七章 习题 |
+| [第八章 查找](https://joker-lkc.github.io/sweettalk-data-structure/#/ch08/ch08)     | 第八章 习题 |
+| [第九章 排序](https://joker-lkc.github.io/sweettalk-data-structure/#/ch09/ch09)     | [第九章 习题](https://joker-lkc.github.io/sweettalk-data-structure/#/ch09/ch09?id=_910-%e4%b9%a0%e9%a2%98) |
 
 ### 协作规范
 
@@ -99,13 +99,13 @@ https://joker-lkc.github.io/sweetalk-data-structure
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Joe-2002/sweetalk-data-structure&type=Date)](https://star-history.com/#Joe-2002/sweetalk-data-structure&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Joe-2002/sweettalk-data-structure&type=Date)](https://star-history.com/#Joe-2002/sweetalk-data-structure&Date)
 
 
 
 **其他**
 
-感谢[胡锐锋](https://github.com/Relph1119)等在最早期的时候对[sweetalk-data-structure](https://github.com/Joker-lkc/sweetalk-data-structure)所做的贡献!
+感谢[胡锐锋](https://github.com/Relph1119)等在最早期的时候对[sweettalk-data-structure](https://github.com/Joker-lkc/sweettalk-data-structure)所做的贡献!
 
 ---
 ### 关注我们
